@@ -50,7 +50,7 @@ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget &&
 ```
 
 ```bash
-wget -O - https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/sebasyba/HATSUNE-MIKU-ULTRA/master/install.sh | bash
 ```
 
 
@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git && cd HATSUNE-MIKU-ULTRA
+git clone https://github.com/sebasyba/HATSUNE-MIKU-ULTRA.git && cd HATSUNE-MIKU-ULTRA
 ```
 
 ```bash
